@@ -1,0 +1,16 @@
+lead_id,company_name,industry,region,segment,lead_source,first_contact_date,last_contact_date,deal_stage,deal_value,deal_cycle_days
+1001,FitCore,Fitness,West,SMB,Cold Call,2025-01-05,2025-01-10,SQL,1200,5
+1002,HealthPro,Healthcare,East,Enterprise,LinkedIn,2025-01-07,2025-01-20,Closed Won,8500,13
+1003,GymNation,Fitness,South,Mid-Market,Email,2025-01-10,2025-01-18,Demo,3200,8
+1004,TrainElite,Fitness,West,Enterprise,Cold Call,2025-01-12,2025-01-25,Closed Lost,10000,13
+1005,WellnessHub,Healthcare,North,SMB,Email,2025-01-15,2025-01-22,Closed Won,2500,7
+1006,FitLife,Fitness,East,Mid-Market,LinkedIn,2025-01-18,2025-01-28,Demo,4000,10
+1007,BodyTech,Fitness,West,Enterprise,Cold Call,2025-01-20,2025-02-02,Closed Won,15000,13
+1008,HealthFirst,Healthcare,South,SMB,Email,2025-01-22,2025-02-01,SQL,1800,10
+1009,PeakFitness,Fitness,North,Mid-Market,LinkedIn,2025-01-25,2025-02-05,Closed Lost,5000,11
+1010,CoreStrength,Fitness,East,Enterprise,Cold Call,2025-01-28,2025-02-10,Closed Won,12000,13
+1011,ActiveLife,Fitness,West,SMB,Email,2025-02-01,2025-02-06,SQL,1400,5
+1012,PrimeHealth,Healthcare,East,Enterprise,LinkedIn,2025-02-03,2025-02-18,Closed Won,9500,15
+1013,UrbanFit,Fitness,South,Mid-Market,Cold Call,2025-02-05,2025-02-14,Demo,3600,9
+1014,WellCorp,Healthcare,North,Enterprise,Email,2025-02-07,2025-02-22,Closed Lost,11000,15
+1015,FitZone,Fitness,West,Mid-Market,LinkedIn,2025-02-10,2025-02-20,Closed Won,6000,10
